@@ -6,4 +6,4 @@
 |  コマンド  |  説明  |
 | ---- | ---- |
 |  `/taskstop all`  |  サーバーで実行されている全てのタスクを停止します。  |
-|  `/taskstop <int:id>`  |  <id>のタスクを停止します。タスクのIDについては、TaskHandler#getTaskId()などで事前に調べておいてください。  |
+|  `/taskstop <int:id>`  |  \<id\>のタスクを停止します。タスクのIDについては、TaskHandler#getTaskId()などで事前に調べておいてください。  |
