@@ -1,0 +1,9 @@
+name: TaskStop
+main: cf.gamesukimanirs.taskstop.Main
+version: 1.0.0
+author: gamesukimanIRS
+api: ["1.0.0"]
+commands:
+  taskstop:
+    description: 指定したタスクを停止します。(CONSOLE)
+    usage: "/stoptask <int:id|all>"
