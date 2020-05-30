@@ -1,7 +1,7 @@
 # TaskStop  
 開発用ツール。指定したスケジューラーをコマンドで停止可能。  
 [Download](https://github.com/gamesukimanIRS/TaskStop/releases/)
-ダウンロード数![download_count](https://www.gamesukimanirs.cf/api/bule_moji.jpg)  
+ダウンロード数![download_count](https://www.gamesukimanirs.cf/api/counter.jpg)  
 ## コマンド  
 全てのコマンドはコンソールからのみ実行可能です。  
 |  コマンド  |  説明  |
